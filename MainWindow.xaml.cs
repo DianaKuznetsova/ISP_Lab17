@@ -24,5 +24,8 @@ namespace ISP_Lab17
         {
             InitializeComponent();
         }
+        private void calendar_SelectedDatesChanged(object sender, SelectionChangedEventArgs e)
+        {
+        }
     }
 }
